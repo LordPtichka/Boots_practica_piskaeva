@@ -1,0 +1,21 @@
+.singing_block {
+    transition: 500ms;
+    margin: 100px auto 300px auto;
+    box-shadow: 0 0 20px #11111135;
+    width: 65%;
+    border-radius: 20px;
+    transition: 500ms;
+}
+
+.img_wrap {
+}
+
+.input_wrap {
+}
+
+.singing_block input {
+    font-size: 30px;
+    border-bottom: 3px var(--bg-orange_accent) solid;
+}
+.singing_block input:nth-child(2) {
+}
